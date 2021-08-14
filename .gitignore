@@ -1,0 +1,6 @@
+
+bot-env/*
+.vscode/*
+__pycache__/*
+Util/__pycache__/*
+confs/env.json

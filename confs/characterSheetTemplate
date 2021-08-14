@@ -1,0 +1,28 @@
+    __**{0[_id]}**__, {0[race]}, {0[class]}, {0[gender]}
+    
+    ***XP*** : {0[xp][value]}
+    ***Niveau*** : {0[lvl][value]}
+
+    __**Etat de santé**__
+        ***Santé Physique*** : {0[health][value]}
+        ***Santé Mentale*** : {0[sanity][value]}
+
+    **__Caractéristiques__**
+        ***Courage*** : {0[bravery][value]} / {0[bravery][maxValue]}
+        ***Intelligence*** : {0[intelligence][value]} / {0[intelligence][maxValue]}
+        ***Charisme*** : {0[charisma][value]} / {0[charisma][maxValue]}
+        ***Adresse*** : {0[agility][value]} / {0[agility][maxValue]}
+        ***Force*** : {0[strength][value]} / {0[strength][maxValue]}
+    
+        ***Attaque*** : {0[attack][value]} / {0[attack][maxValue]}
+        ***Parade*** : {0[parry][value]} / {0[parry][maxValue]}
+
+        ***Résistance magique*** : {3}
+
+
+    **__Équipement__**
+        ***Argent*** : {0[gold][value]} po {0[silver][value]} pa
+{1}
+    
+    **__Compétences__**
+{2}
